@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Yashwant0701/Workplace-JobPortal/static/css/main.4e6f89ba.css",
+    "main.js": "/Yashwant0701/Workplace-JobPortal/static/js/main.a8e20e1e.js",
+    "static/js/787.74328900.chunk.js": "/Yashwant0701/Workplace-JobPortal/static/js/787.74328900.chunk.js",
+    "static/media/loading.gif": "/Yashwant0701/Workplace-JobPortal/static/media/loading.7d262288deb3ebcbb780.gif",
+    "static/media/marketing.svg": "/Yashwant0701/Workplace-JobPortal/static/media/marketing.de92f2e1a4dc592d6e0d57f7ff901249.svg",
+    "index.html": "/Yashwant0701/Workplace-JobPortal/index.html",
+    "main.4e6f89ba.css.map": "/Yashwant0701/Workplace-JobPortal/static/css/main.4e6f89ba.css.map",
+    "main.a8e20e1e.js.map": "/Yashwant0701/Workplace-JobPortal/static/js/main.a8e20e1e.js.map",
+    "787.74328900.chunk.js.map": "/Yashwant0701/Workplace-JobPortal/static/js/787.74328900.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e6f89ba.css",
+    "static/js/main.a8e20e1e.js"
+  ]
+}
